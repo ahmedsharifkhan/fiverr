@@ -1,0 +1,121 @@
+
+---Downloaded files---
+The import files for: most Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/fiverr
+Data file = T:\wordpress\htdocs\fiverr/wp-content/uploads/2024/03/demo-content-import-file_2024-03-29__06-36-05.xml
+Widget file = T:\wordpress\htdocs\fiverr/wp-content/uploads/2024/03/demo-widgets-import-file_2024-03-29__06-36-05.json
+Customizer file = T:\wordpress\htdocs\fiverr/wp-content/uploads/2024/03/demo-customizer-import-file_2024-03-29__06-36-05.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat For Running
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Life
+[WARNING] Failed to import product_tag Move
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sport
+[WARNING] Failed to import product_tag Trainers
+[WARNING] Failed to import product_cat Training
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Walking
+[WARNING] Failed to import product_cat Workout
+[ERROR] Failed to import "most_logo2_light" (Media)
+[ERROR] Failed to import "most_logo1" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat For Running
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Life
+[WARNING] Failed to import product_tag Move
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sport
+[WARNING] Failed to import product_tag Trainers
+[WARNING] Failed to import product_cat Training
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Walking
+[WARNING] Failed to import product_cat Workout
+[ERROR] Failed to import "align-vertically" (Media)
+[ERROR] Failed to import "code-1" (Media)
+[ERROR] Failed to import "video-play" (Media)
+[ERROR] Failed to import "camera" (Media)
+[ERROR] Failed to import "layer" (Media)
+[ERROR] Failed to import "code-2" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat For Running
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Life
+[WARNING] Failed to import product_tag Move
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sport
+[WARNING] Failed to import product_tag Trainers
+[WARNING] Failed to import product_cat Training
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Walking
+[WARNING] Failed to import product_cat Workout
+[ERROR] Failed to import "elipse_bg_most" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Most: Recent Thumbnail Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+shop_sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
