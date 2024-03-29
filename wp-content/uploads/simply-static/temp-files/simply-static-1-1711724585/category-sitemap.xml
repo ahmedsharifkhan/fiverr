@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on Mar 29, 2024 at 3:03 pm by All in One SEO v4.5.9.2 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://ahmedsharifkhan.github.io/fiverr/default-sitemap.xsl?sitemap=category"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://ahmedsharifkhan.github.io/fiverr/category/uncategorized/]]></loc>
+		<lastmod><![CDATA[2022-08-09T12:12:34+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://ahmedsharifkhan.github.io/fiverr/category/design/]]></loc>
+		<lastmod><![CDATA[2022-08-09T12:13:41+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://ahmedsharifkhan.github.io/fiverr/category/events/]]></loc>
+		<lastmod><![CDATA[2022-08-09T12:12:34+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://ahmedsharifkhan.github.io/fiverr/category/photography/]]></loc>
+		<lastmod><![CDATA[2022-08-09T12:10:42+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://ahmedsharifkhan.github.io/fiverr/category/wordpress/]]></loc>
+		<lastmod><![CDATA[2022-08-09T12:01:50+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>
