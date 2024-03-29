@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: most Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/fiverr
+Data file = T:\wordpress\htdocs\fiverr/wp-content/uploads/2024/03/demo-content-import-file_2024-03-29__06-43-49.xml
+Widget file = T:\wordpress\htdocs\fiverr/wp-content/uploads/2024/03/demo-widgets-import-file_2024-03-29__06-43-49.json
+Customizer file = T:\wordpress\htdocs\fiverr/wp-content/uploads/2024/03/demo-customizer-import-file_2024-03-29__06-43-49.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Most: Recent Thumbnail Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Shop Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Products list - Products - Imported
+Product Categories - Product categories - Imported
+Product Tag Cloud - Product tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
